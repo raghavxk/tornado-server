@@ -1,0 +1,6 @@
+banana
+grapes
+oranges
+lemons
+avocado
+strawberry

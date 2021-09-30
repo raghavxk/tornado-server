@@ -1,2 +1,2 @@
 # tornado-server
-This is a simple implementation of a backend using tornado-python server.
+This is an implementation of a backend server using tornado-python server.
